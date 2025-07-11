@@ -53,8 +53,8 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## 🧑‍💻 Author
 
-**[Your Name]**  
-You can connect with me on [LinkedIn](https://www.linkedin.com) or check out more projects on [GitHub](https://github.com).
+**[Bhupendra vishwakarma]**  
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/bhupendra-vishwakarmaa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out more projects on [GitHub](https://github.com).
 
 ---
 
