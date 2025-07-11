@@ -1,7 +1,7 @@
 name1 = list(input("Enter your name : ").lower())
 name2 = list(input("Enter your  partner\s name: ").lower())
 
-for latter in name1[:]: #[] ye slace karega remove karne ke bad suru se count / read karega word ko
+for latter in name1[:]: #[] ye slice karega remove karne ke bad suru se count / read karega word ko
     if latter in name2:
         name1.remove(latter)
         name2.remove(latter)
